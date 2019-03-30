@@ -77,11 +77,11 @@ to check wheather the functionality of the feed reader application is passed the
  
 <b>state 1 :</b> Test Suite Passed
 
-![alt text]()     
+![alt text](https://github.com/webbizleads/Feed-Reader-Testing/blob/master/Feed%20Reader%20Testing/img/test-pass.PNG)     
 
 <b>state 2 :</b> Test Suite Failed
 
-![alt text]()
+![alt text](https://github.com/webbizleads/Feed-Reader-Testing/blob/master/Feed%20Reader%20Testing/img/test-fail.PNG)
 
 # Build In
 
